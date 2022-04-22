@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# LUIS Phillipe
+
+##Softwar Engenier
+### Atualmente estou aprendendo HTML/CSS
+### https://www.linkedin.com/in/lu%C3%ADs-phillipe-nunes-dalilla-082595167/ 
