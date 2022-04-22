@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 
 # Luis Phillipe
 
-##Softwar Engenier
-### Atualmente estou aprendendo HTML/CSS
+Engenheiro de Software
 
-### Graduado em Engenharia da Computação e cursando pós graduação em Desenvolvimento de Softwares. Possuo conhecimentos em linguagen C#, HTML, CSS, JavaScript, Python. 
+Atualmente estou aprendendo HTML/CSS
 
-###https://www.linkedin.com/in/lu%C3%ADs-phillipe-nunes-dalilla-082595167/
+Graduado em Engenharia da Computação e cursando pós graduação em Desenvolvimento de Softwares. Possuo conhecimentos em linguagen C#, HTML, CSS, JavaScript, Python. 
+
+https://www.linkedin.com/in/lu%C3%ADs-phillipe-nunes-dalilla-082595167/
+
