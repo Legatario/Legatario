@@ -23,4 +23,4 @@ Atualmente estou aprendendo HTML/CSS
 Graduado em Engenharia da Computação e cursando pós graduação em Desenvolvimento de Softwares. Possuo conhecimentos em linguagen C#, HTML, CSS, JavaScript, Python. 
 
 
-Contatos:  https://www.linkedin.com/in/lu%C3%ADs-phillipe-nunes-dalilla-082595167/
+Contatos:  (https://www.linkedin.com/in/lu%C3%ADs-phillipe-nunes-dalilla-082595167/) [Linkedln]
